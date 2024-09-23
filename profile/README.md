@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=exploring-solver)
+![](https://komarev.com/ghpvc/?username=bytemait)
 <!--
 
 **Here are some ideas to get you started:**
